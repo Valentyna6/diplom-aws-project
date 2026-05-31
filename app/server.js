@@ -97,7 +97,7 @@ const htmlContent = `
             <div class="badge">✔ CI/CD Pipeline працює ідеально!</div>
             <p>Вітаємо! Цей вебзастосунок було автоматично зібрано та відправлено у хмарну інфраструктуру AWS за допомогою GitHub Actions та Terraform.</p>
             <div class="info-list">
-                <div><span>Студентки:</span> Глухенько Валентина</div>
+                <div><span>Студентка:</span> Глухенько Валентина</div>
                 <div><span>Спеціальність:</span> Комп'ютерні науки</div>
                 <div><span>Технології:</span> AWS (VPC, ECR), Terraform, Docker, GitHub Actions</div>
             </div>
