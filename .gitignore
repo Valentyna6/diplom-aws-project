@@ -1,0 +1,14 @@
+# Local .terraform directories
+**/.terraform/*
+.terraform/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Node.js
+node_modules/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
