@@ -94,7 +94,7 @@ const htmlContent = `
     <div class="container">
         <div class="card">
             <h2>Кваліфікаційна робота</h2>
-            <div class="badge">✔ CI/CD Pipeline працює ідеально!</div>
+            <div class="badge">✔ CI/CD Pipeline працює ідеально </div>
             <p>Вітаємо! Цей вебзастосунок було автоматично зібрано та відправлено у хмарну інфраструктуру AWS за допомогою GitHub Actions та Terraform.</p>
             <div class="info-list">
                 <div><span>Студентка:</span> Глухенько Валентина</div>
